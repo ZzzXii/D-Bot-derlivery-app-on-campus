@@ -13,6 +13,7 @@ Project Website:
 https://onlineacademiccommunity.uvic.ca/teamliquid/project-proposaldbot/
 
 Introducing the D-BoT On-Campus Delivery App Prototype:
+
 The D-BoT on-campus delivery system app prototype offers a seamless and efficient delivery service for campus students and faculty. 
 With a user-friendly interface featuring an inviting orange theme, the app ensures a comfortable user experience. 
 It simplifies navigation and eliminates errors by pre-embedding destinations. 
