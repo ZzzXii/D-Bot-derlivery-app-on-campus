@@ -1,4 +1,4 @@
-# D-Bot-derlivery-app-on-campus
+# D-Bot-derlivery-app-on-campus-Seng310
 Goal of the course:
 - Team work
 - Recognize a practical issue or potential improvement related to computer technology design and usage.
